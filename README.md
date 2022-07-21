@@ -10,7 +10,7 @@ Welcome to my github page
 const aboutMe = new AbolfazlMaherani();
 
 //😄 Personal
-aboutMe.person = {
+aboutMe.personal = {
   fullName: "Abolfazl Maherani",
   age:20,
   isMarried:false,
