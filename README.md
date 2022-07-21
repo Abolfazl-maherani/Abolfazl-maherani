@@ -1,15 +1,33 @@
-### Welcom to my github Page
 
-**Abolfazl-maherani/Abolfazl-maherani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abolfazl ! 👋
+Welcome to my github page
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 🚀 About Me
+> the Abolfazl-mahernai.json is about me😉
+```json
+{
+  "person": {
+    "fullName":"Abolfazl Maherani"
+  },
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
+
+4```
+
+
+
+## Authors
+
+- [@Abolfazl-maherani](https://github.com/Abolfazl-maherani)
+
 
