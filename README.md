@@ -5,24 +5,27 @@ Welcome to my github page
 
 
 ## 🚀 About Me
-> the Abolfazl-mahernai.json is about me😉
-```json
-{
-  "person": {
-    "fullName":"Abolfazl Maherani"
-  },
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World"
+> the Abolfazl-mahernai.js is about me😉
+```js
+const aboutMe = new AbolfazlMaherani();
+
+//😄 Personal
+aboutMe.person = {
+  fullName: "Abolfazl Maherani",
+  age:20,
+  isMarried:false,
+  girlfriend: "Javascript",
+  isFullStack:true
 }
 
-4```
+//🔦 Skills 
+aboutMe.skills = {
+  basics: ["Html", "Css", "Js", "Jquery", "Sass", "Bootstrap"],
+  frontend:["Vue.js", "Vuetify"],
+  backend:["Node js", "Express"],
+  database:["MongoDb", "PostgreSQL", "MySQL"]
+}
+```
 
 
 
