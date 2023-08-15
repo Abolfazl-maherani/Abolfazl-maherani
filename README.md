@@ -12,7 +12,7 @@ const aboutMe = new AbolfazlMaherani();
 //😄 Personal
 aboutMe.personal = {
   fullName: "Abolfazl Maherani",
-  age:20,
+  age:21,
   isMarried:false,
   girlfriend: "Javascript",
   isFullStack:true
@@ -20,10 +20,10 @@ aboutMe.personal = {
 
 //🔦 Skills 
 aboutMe.skills = {
-  basics: ["Html", "Css", "Js", "Jquery", "Sass", "Bootstrap"],
-  frontend:["Vue.js", "Vuetify"],
+  basics: ["Html", "Css", "Js", "Jquery", "Sass, scss", "Bootstrap", "tailwind", "windicss"],
+  frontend:["Vue.js", "Vuetify", "quasar", "Nuxt"],
   backend:["Node js", "Express"],
-  database:["MongoDb", "PostgreSQL", "MySQL"]
+  database:["MongoDb", "PostgreSQL", "MySQL", "Redis", "Web socket"]
 }
 ```
 
