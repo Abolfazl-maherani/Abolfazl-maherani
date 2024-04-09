@@ -12,7 +12,7 @@ const aboutMe = new AbolfazlMaherani();
 //😄 Personal
 aboutMe.personal = {
   fullName: "Abolfazl Maherani",
-  age:21,
+  age:22,
   isMarried:true,
   girlfriend: "Javascript",
   isFullStack:true
